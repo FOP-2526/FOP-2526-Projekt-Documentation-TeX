@@ -2,6 +2,6 @@
     "recommendations": [
         "James-Yu.latex-workshop",
         "dangmai.workspace-default-settings",
-        "valentjn.vscode-ltex"
+        "ltex-plus.vscode-ltex-plus"
     ]
 }
